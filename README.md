@@ -1,2 +1,2 @@
 # my-portfolio
-it.s demo portfolio
+demo portfolio
