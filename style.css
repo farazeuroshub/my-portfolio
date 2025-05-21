@@ -400,9 +400,14 @@ footer .logo {
     gap: 10px;
   }
 
-  .section1, .section2, .section3, .section4, .section5 {
+  .section1, .section2, .section3, .section4 {
     padding: 150px 15px;
     font-size: 28px;
+    background-attachment: scroll;
+  }
+  .section5 {
+    padding: 150px 15px;
+    font-size: 20px;
     background-attachment: scroll;
   }
 
